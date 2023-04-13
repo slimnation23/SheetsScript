@@ -16,6 +16,7 @@ btn.onclick = (e) => {
 }
 
 function outputData(headings, rows) {
+    output.innerHTML = ''
     const tabl = maker('table', output, 'table')
     const heading = maker('tr', tabl, 'row')
     headings.forEach(ele => {

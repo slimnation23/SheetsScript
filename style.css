@@ -2,6 +2,9 @@
     background-color: black;
     color: white;
 }
+.td {
+    border: 1px solid #ccc;
+}
 .row:nth-child(even) {
     background-color: #ddd;
     color: black;
@@ -9,4 +12,5 @@
 .table {
     width: 100%;
     border: 1px solid black;
+    border-collapse: collapse;
 }
