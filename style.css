@@ -18,3 +18,13 @@
     color: white;
     cursor: pointer;
 }
+.btn,.btn1 {
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-size: 1.5em;
+}
