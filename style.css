@@ -28,3 +28,7 @@
     background-color: black;
     font-size: 1.5em;
 }
+
+input {
+    display: block;
+}
