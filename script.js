@@ -42,8 +42,6 @@ function maker(t, parent, c) {
 
 const url = 'https://script.google.com/macros/s/AKfycbzG9TqrOgyIRdqC0SgsJqZaHPKlgCf78XUWP87TQxOwTepB1ZY92km_EAfr6rn3zX2v8Q/exec'
 
-const btn = document.querySelector('.btn')
-const output = document.querySelector('.output')
 const myInput1 = document.createElement('input')
 const myInput2 = document.createElement('input')
 const label1 = document.createTextNode('Name:')
